@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<inimesed>
+  <inimene>
+    <eesnimi>Daniel</eesnimi>
+    <perenimi>Mihol</perenimi>
+    <synd>2003</synd>
+  </inimene>
+
+  <inimene>
+    <eesnimi>Marcus</eesnimi>
+    <perenimi>Kir</perenimi>
+    <synd>2003</synd>
+  </inimene>
+  
+  <inimene>
+    <eesnimi>Fabio</eesnimi>
+    <perenimi>Har</perenimi>
+    <synd>1998</synd>
+  </inimene>
+  
+  <inimene>
+    <eesnimi>Yort</eesnimi>
+    <perenimi>Vari</perenimi>
+    <synd>2006</synd>
+  </inimene>
+
+  <inimene>
+    <eesnimi>Van</eesnimi>
+    <perenimi>Hokings</perenimi>
+    <synd>1995</synd>
+  </inimene>
+</inimesed>

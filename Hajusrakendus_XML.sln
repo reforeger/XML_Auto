@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hajusrakendus_XML", "Hajusrakendus_XML\Hajusrakendus_XML.csproj", "{590881BF-3EA9-4224-8BAE-32D10AFEB340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590881BF-3EA9-4224-8BAE-32D10AFEB340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590881BF-3EA9-4224-8BAE-32D10AFEB340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590881BF-3EA9-4224-8BAE-32D10AFEB340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590881BF-3EA9-4224-8BAE-32D10AFEB340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CB60535-2F7B-4300-9B4E-1E3C9F75BA98}
+	EndGlobalSection
+EndGlobal

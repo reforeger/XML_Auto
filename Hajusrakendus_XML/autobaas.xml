@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<autoregistr>
+  <auto>
+    <perenimi>Uoren</perenimi>
+    <automark>Audi</automark>
+    <regnumber> 604jpd</regnumber>
+  </auto>
+
+  <auto>
+    <perenimi>Maris</perenimi>
+    <automark>Ford</automark>
+    <regnumber> 831kdp</regnumber>
+  </auto>
+
+  <auto>
+    <perenimi>Lira</perenimi>
+    <automark>Jeep</automark>
+    <regnumber> 932pds</regnumber>
+  </auto>
+
+  <auto>
+    <perenimi>Jemis</perenimi>
+    <automark>Porshe</automark>
+    <regnumber> 890kvg</regnumber>
+  </auto>
+
+  <auto>
+    <perenimi>Lira</perenimi>
+    <automark>Tayota</automark>
+    <regnumber> 971hod</regnumber>
+  </auto>
+  
+</autoregistr>
