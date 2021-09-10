@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<inimene synd="1926">
+  <nimi>
+    Elizabeth II
+  </nimi>
+  <tittle>quine</tittle>
+  <lapsed>
+    <inimene synd="1950">
+      <nimi>
+        Anne, Princess Royal
+      </nimi>
+    </inimene>
+    <inimene synd="1948">
+      <nimi>Charles, Prince of Wales</nimi>
+      <lapsed>
+        <inimene synd="1982">
+          <nimi>William</nimi>
+          <lapsed>
+            <inimene synd="2013">
+              <nimi>Dzordz Aleksandr Lui</nimi>
+            </inimene>
+            <inimene synd="2015">
+              <nimi>Sharlotte</nimi>
+            </inimene>
+            <inimene synd="2018">
+              <nimi>Lui Artur Charlz</nimi>
+            </inimene>
+          </lapsed>
+        </inimene>
+        <inimene synd="1985">
+          <nimi>Harry</nimi>
+          <lapsed>
+            <inimene synd="2019">
+              <nimi>Archi</nimi>
+            </inimene>
+            <inimene synd="2021">
+              <nimi>Lillybet</nimi>
+              <synnaaasta>2021</synnaaasta>
+            </inimene>
+          </lapsed>
+        </inimene>
+      </lapsed>
+
+    </inimene>
+    <inimene synd="1960">
+      <nimi>Andrew, Duke of York</nimi>
+    </inimene>
+    <inimene synd="1964">
+      <nimi>Edward, Earl of Wessex</nimi>
+    </inimene>
+  </lapsed>
+</inimene>

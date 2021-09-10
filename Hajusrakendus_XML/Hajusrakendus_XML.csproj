@@ -158,6 +158,9 @@
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Site.Master" />
+    <Content Include="sugupuu - Copy.xml" />
+    <Content Include="sugupuu.xml" />
+    <Content Include="sugupuuLisa.xslt" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />

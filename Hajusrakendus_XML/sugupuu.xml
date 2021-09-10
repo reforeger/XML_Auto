@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<inimene>
+  <nimi>
+    Elizabeth II
+  </nimi>
+  <synnaaasta>1926</synnaaasta>
+  <lapsed>
+    <inimene>
+      <nimi>
+        Anne, Princess Royal
+      </nimi>
+      <synnaaasta>1950</synnaaasta>
+    </inimene>
+    <inimene>
+      <nimi>Charles, Prince of Wales</nimi>
+      <synnaaasta>1948</synnaaasta>
+      <lapsed>
+        <inimene>
+          <nimi>William</nimi>
+          <synnaaasta>1982</synnaaasta>
+          <lapsed>
+            <inimene>
+              <nimi>Dzordz Aleksandr Lui</nimi>
+              <synnaaasta>2013</synnaaasta>
+            </inimene>
+            <inimene>
+              <nimi>Sharlotte</nimi>
+              <synnaaasta>2015</synnaaasta>
+            </inimene>
+            <inimene>
+              <nimi>Lui Artur Charlz</nimi>
+              <synnaaasta>2018</synnaaasta>
+            </inimene>
+          </lapsed>
+        </inimene>
+        <inimene>
+          <nimi>Harry</nimi>
+          <synnaaasta>1985</synnaaasta>
+          <lapsed>
+            <inimene>
+              <nimi>Archi</nimi>
+              <synnaaasta>2019</synnaaasta>
+            </inimene>
+            <inimene>
+              <nimi>Lillybet</nimi>
+              <synnaaasta>2021</synnaaasta>
+            </inimene>
+          </lapsed>
+        </inimene>
+      </lapsed>
+
+    </inimene>
+    <inimene>
+      <nimi>Andrew, Duke of York</nimi>
+      <synnaaasta>1960</synnaaasta>
+    </inimene>
+    <inimene>
+      <nimi>Edward, Earl of Wessex</nimi>
+      <synnaaasta>1964</synnaaasta>
+    </inimene>
+  </lapsed>
+</inimene>
+
+<!--
+<inimene>
+  <nimi>Elisaveta ll</nimi>
+  <synniaasta>1926</synniaasta>
+  <lapsed>
+
+
+    <inimene>
+      <nimi>Charles</nimi>
+      <synniaasta>1948</synniaasta>
+      <lapsed>
+
+        <inimene>
+          <nimi>Harry</nimi>
+          <synniaasta>1984</synniaasta>
+        </inimene>
+
+        <inimene>
+          <nimi>William</nimi>
+          <synniaasta>1982</synniaasta>
+        </inimene>
+
+      </lapsed>
+      
+    </inimene>
+
+
+    <inimene>
+      <nimi>Anna</nimi>
+      <synniaasta>1950</synniaasta>
+    </inimene>
+    <inimene>
+
+
+      <nimi>Andryu</nimi>
+      <synniaasta>1960</synniaasta>
+    </inimene>
+    <inimene>
+
+
+      <nimi>Edvard</nimi>
+      <synniaasta>1964</synniaasta>
+      <lapsed>
+        <inimene>
+          <nimi>Luisa</nimi>
+          <synniaasta>2003</synniaasta>
+        </inimene>
+      </lapsed>
+    </inimene>
+
+
+  </lapsed>
+</inimene>  -->
